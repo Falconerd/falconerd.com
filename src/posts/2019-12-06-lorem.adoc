@@ -1,0 +1,17 @@
+== Lorem
+
+Here is a post blah blah
+
+Let's add a 2nd paragraph
+
+And maybe some code
+
+----
+printStr str n =
+    if n == 0
+        str
+    else
+        printStr str (n - 1)
+----
+
+Tags: Elm, Code, Gamedev

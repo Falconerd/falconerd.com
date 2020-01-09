@@ -1,0 +1,35 @@
+= Dylan Falconer (falconerd.com)
+:stylesheet: style.css
+Game Development & Linux stuff, mostly
+:toc-title: Contents
+:YOUTUBE_LINK: https://youtube.com/Falconerd
+
+== Welcome!
+
+My name is Dylan Falconer, you may know me for this stuff:
+
+- My Devlog and videos for link:#[Auto-Battle Tactics]
+- Videos about Linux and Game Development on link:`{VAR}`[YouTube] or link:#[BitChute]
+- Blog posts about link:#[Linux], link:#[Gamedev], link:#[Elm], and link:#[Other sutff]
+- A very well maintained link:#[Discord Bot for GitHub]
+
+[cols="2,2"]
+|===
+a| Links
+
+ * link:#[Auto-Battle Tactics Devlog]
+ * link:#[Blog Posts]
+ * link:#[This Site's Source Code]
+
+a| Social
+
+- link:#[YouTube]
+- link:#[BitChute]
+- link:#[GitHub]
+- link:#[Email]
+
+|===
+
+'''
+
+include::posts.adoc[]

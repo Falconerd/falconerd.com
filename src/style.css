@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Source+Serif+Pro&display=swap");
+body {
+  background-color: #1b222c;
+  font: 18px "Source Serif Pro", serif;
+  color: #99cccc;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #0e696a;
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.9);
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  font-size: 180%;
+}
+
+a {
+  color: #dead50;
+}
+a:hover {
+  color: #f35e7c;
+}
+a:visited {
+  color: #dead50;
+}
+a:visited:hover {
+  color: #f35e7c;
+}
+
+tr {
+  vertical-align: top;
+}
+
+hr {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */

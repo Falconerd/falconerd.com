@@ -1,0 +1,4 @@
+= gamedev
+:stylesheet: ../../src/style.css
+
+include::../../src/posts/2019-12-06-lorem.adoc[]

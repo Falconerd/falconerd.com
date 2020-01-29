@@ -1,0 +1,4 @@
+= time
+:stylesheet: ../../src/style.css
+
+include::../../src/posts/1970-01-01-the-epoch.adoc[]

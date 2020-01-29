@@ -1,0 +1,4 @@
+= dog-walk
+:stylesheet: ../../src/style.css
+
+include::../../src/posts/2019-12-07-a-new-day.adoc[]

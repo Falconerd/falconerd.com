@@ -32,4 +32,4 @@ a| Social
 
 '''
 
-include::posts.adoc[]
+include::../proc/posts.adoc[]
